@@ -1,0 +1,21 @@
+{
+  "connection_key": "request",
+  "result": true,
+  "redis_key": "abcdefg",
+  "filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+  "api_status_code": 200,
+  "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+  "business_partner": null,
+  "service_label": "GOOGLE_PLACES_LOCATIONS",
+  "api_type": "requests",
+  "GooglePlacesLocations": {
+    "Key": "PLACES_API_APIKEY",
+    "Language": "JA",
+    "Location": "34.691658718037566,135.70423423218068",
+    "Radius": 50
+  },
+  "api_schema": "DPFMGooglePlacesLocationsRequests",
+  "accepter": [
+    "GooglePlacesLocations"
+  ]
+}
